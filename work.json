@@ -1,0 +1,126 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John",
+      "class": 6,
+      "roll": 39
+    },
+    {
+      "id": 2,
+      "name": "Doe",
+      "class": 10,
+      "roll": 284
+    },
+    {
+      "id": 3,
+      "name": "jinisa",
+      "class": 5,
+      "roll": 95
+    },
+    {
+      "id": 4,
+      "name": "Sally",
+      "class": 3,
+      "roll": 4
+    },
+    {
+      "id": 5,
+      "name": "Shim",
+      "class": 6,
+      "roll": 20
+    },
+    {
+      "id": 6,
+      "name": "shavi",
+      "class": 10,
+      "roll": 120
+    },
+    {
+      "id": 7,
+      "name": "shubi",
+      "class": 7,
+      "roll": 19
+    },
+    {
+      "id": 8,
+      "name": "anula",
+      "class": 10,
+      "roll": 49
+    },
+    {
+      "id": 9,
+      "name": "tumipa",
+      "class": 5,
+      "roll": 28
+    },
+    {
+      "id": 10,
+      "name": "lastip",
+      "class": 10,
+      "roll": 89
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Juan",
+      "skill": "English",
+      "age": 59
+    },
+    {
+      "id": 2,
+      "name": "rido",
+      "skill": "Spanish",
+      "age": 46
+    },
+    {
+      "id": 3,
+      "name": "jinisa",
+      "skill": "Science",
+      "age": 49
+    },
+    {
+      "id": 4,
+      "name": "Sally",
+      "skill": "Computer",
+      "age": 42
+    },
+    {
+      "id": 5,
+      "name": "ania",
+      "skill": "Mern stack",
+      "age": 47
+    },
+    {
+      "id": 6,
+      "name": "Juan",
+      "skill": "upwork",
+      "age": 58
+    },
+    {
+      "id": 7,
+      "name": "lastip",
+      "skill": "Json dev",
+      "age": 56
+    },
+    {
+      "id": 8,
+      "name": "sheni",
+      "skill": "Software dev",
+      "age": 63
+    },
+    {
+      "id": 9,
+      "name": "jinisa",
+      "skill": "Science engineering",
+      "age": 49
+    },
+    {
+      "id": 10,
+      "name": "Juan",
+      "skill": "Sports",
+      "age": 46
+    }
+  ]
+}
